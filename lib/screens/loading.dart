@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:weatherflutterproject/data/network.dart';
 import 'package:weatherflutterproject/data/my_location.dart';
 import 'package:weatherflutterproject/screens/weather.dart';
-const apikey='3fc18b18176d837d75208d27473a6593';
+const apikey='내 API 키 ';
 
 class Loading extends StatefulWidget {
   const Loading({super.key});
