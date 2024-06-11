@@ -1,16 +1,5 @@
-# weatherflutterproject
+안드로이드 스튜디오와 Fultter를 이용한 날씨 어플 제작
+날씨 OPENAPI로 데이터를 받아와 어플에 표시한다. 
 
-A new Flutter project.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+*코딩 셰프님의 강좌를 참고 하였습니다.
